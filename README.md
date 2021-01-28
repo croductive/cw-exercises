@@ -1,7 +1,7 @@
 # cw-exercises 
 
-- arrays
+- array
 - logic
-- strings
+- string
 - arrow
-
+- regex

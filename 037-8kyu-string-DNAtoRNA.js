@@ -11,6 +11,15 @@ function DNAtoRNA(dna) {
   return dna1.join("");
 }
 
+function DNAtoRNA1(dna) {
+  // create a function which returns an RNA sequence fro
+  return dna.replace(/T/g, "U");
+}
+
 console.log(DNAtoRNA("TTTT"), "UUUU");
 console.log(DNAtoRNA("GCAT"), "GCAU");
 console.log(DNAtoRNA("GACCGCCGCC"), "GACCGCCGCC");
+
+console.log1(DNAtoRNA("TTTT"), "UUUU");
+console.log1(DNAtoRNA("GCAT"), "GCAU");
+console.log1(DNAtoRNA("GACCGCCGCC"), "GACCGCCGCC");

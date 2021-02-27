@@ -1,4 +1,4 @@
-package kata
+//package kata
 
 func SumCubes(n int) int {
 	// your code here

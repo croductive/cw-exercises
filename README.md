@@ -6,3 +6,9 @@
 - arrow
 - regex
 - structures
+
+- php
+- go
+- kotlin
+- python
+- java
